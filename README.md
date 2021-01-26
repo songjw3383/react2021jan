@@ -8,3 +8,8 @@
 
 ## 0124
 * 이벤트 state 변경 및 bind 함수 이해
+
+## 0126
+* CRUD 구성 소개
+* CREATE 구현 : MODE 변경 및 전환
+* form 만들기 / onSubmit 이벤트 및 contents 변경
